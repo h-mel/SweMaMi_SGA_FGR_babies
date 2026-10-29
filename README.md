@@ -2,6 +2,7 @@
 Analysis code for the manuscript:
 
 > **Associations between maternal gut microbiome diversity in early and late pregnancy and small-for-gestational-age or growth restricted births: a nested case-control study**
+
 > Anusha T. Antony*, Emma Hertting*, Lotta Herling, Lars Engstrand, Ina Schuppe-Koistinen, Pelle G. Lindqvist, Nele Brusselaers, Eva Wiberg-Itzel, Luisa W. Hugerth
 *These authors share first authorship 
 
