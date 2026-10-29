@@ -44,7 +44,7 @@ Taxa and GMMs are analysed in separate MaAsLin 3 runs with a shared model specif
 
 The raw metagenomic sequences, along with selected metadata variables, are deposited in the European Nucleotide Archive (ENA) under project number **PRJEB81814**.
 
-Individual-level participant data are restricted for privacy reasons and are not included in this repository. See `data/README.md` for details.
+Individual-level participant data are restricted for privacy reasons and are not included in this repository. 
 ## Software
 
 
@@ -57,7 +57,7 @@ Analyses were performed in **R (v4.5.2)** within Jupyter notebooks (R kernel). K
 - `lme4` (v1.1.33)
 - `MatchIt`
 
-Upstream bioinformatic processing used the StaG-mwc (v0.5.1) workflow (FastP, Kraken2, MetaPhlAn4, HUMAnN2, Omixer-RPM). See the manuscript Methods for full details.
+Upstream bioinformatic processing used the StaG-mwc (v0.5.1) workflow (FastP, Kraken2, MetaPhlAn4, HUMAnN3, Omixer-RPM). See the manuscript Methods for full details.
 
 ## Contact
 
